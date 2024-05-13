@@ -7,7 +7,7 @@ function AboutMe() {
         <h2 className="text-center mb-4 title">About Me</h2>
         <div className="row">
           <div className="col-lg-6">
-            <img src="./src/assets/profile-pic.png" alt="Profile" className="img-fluid rounded-circle mb-4" />
+            <img src="/images/profile-pic.png" alt="Profile" className="img-fluid rounded-circle mb-4" />
           </div>
           <div className="col-lg-6">
             <p className="lead about-paragraph">
