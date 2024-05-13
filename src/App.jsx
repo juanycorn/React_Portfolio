@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Im
 import Header from './components/Header'; // Import your Header component
 import AboutMe from './components/AboutMe'; // Import your AboutMe component
 import Portfolio from './components/Portfolio'; // Import your Portfolio component
-import Contact from './components/Contact'; // Import your Contact component
+import Contact from './components/contact'; // Import your Contact component
 import Resume from './components/Resume'; // Import your Resume component
 import Footer from './components/Footer'; // Import your Footer component
 
