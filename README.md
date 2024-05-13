@@ -32,7 +32,7 @@ This portfolio is built using React and deployed on Netlify. It includes section
 
 ## Deployed Website
 
-You can view the deployed portfolio [here](https://your-portfolio-url.netlify.app/).
+You can view the deployed portfolio [here]([https://main--juanacornejo-portfolio.netlify.app/]).
 
 ## Technologies Used
 
