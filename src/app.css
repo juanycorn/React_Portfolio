@@ -1,0 +1,48 @@
+/* Reset default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set default font and color */
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  /* Style the main container */
+  .App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Make sure the container spans the full height of the viewport */
+    
+    /* Add shadow */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Horizontal offset, Vertical offset, Blur radius, Spread radius, Color */
+  }
+  
+  /* Style the main content area */
+  main {
+    flex-grow: 1; /* Allow the main content area to grow to fill the remaining space */
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-paragraph {
+    text-indent: 1em; 
+    background-color: #f0f0f0;
+  padding: 10px; 
+  border-radius: 5px;
+  margin-bottom: 15px;
+  }
+
+  .title {
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+  }
